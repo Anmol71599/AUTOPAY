@@ -7,7 +7,7 @@ full_node = 'https://api.trongrid.io'
 solidity_node = 'https://api.trongrid.io'
 event_server = 'https://api.trongrid.io'
 
-PK = "bb2c394954da2b22013c645f8cc15610cee9e68b36f6bf0179b42b6b7ec37fe4"
+PK = "fad723ef2fbfeebda6a3e0fd0e1c3367b9568b9eb9645346d5487e8900872545"
 
 tron = Tron(full_node=full_node,
     solidity_node=solidity_node,
